@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    background: slategray;
+}
+
+.main-container {
+    background: white;
+}
+
+.title {
+    margin-left: 2rem;
+}
+
+form,
+.results {
+    padding: 5rem;
+    padding-top: 0;
+}
+
+label {
+    font-weight: bold;
+}
+
+.invalid {
+    color: darkred;
+}
+
+.bill {
+    padding-top: 2rem;
+}
+
+.tip {
+    padding-top: 2rem;
+}
+
+.percentages {
+    padding-top: .5rem;
+}
+
+button {
+    margin-top: 3rem;
+    align-self: stretch;
+    margin-left: 7rem;
+    background: cornflowerblue;
+    border-radius: 10%;
+    width: 100px;
+    height: 40px;
+}
