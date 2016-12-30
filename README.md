@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator*
 
-**Name of your app** is a tip calculator PHP page.
+**Tip Calculator** is a tip calculator PHP page.
 
-Submitted by: **Your Name Here**
+Submitted by: **Jeremy Lehman**
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -28,11 +28,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/2xKtbw1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/Y8Z7Jam.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My largest problem was actually generating the gif, otherwise most things went smoothly once I looked through the php docs.
 
 ## License
 
